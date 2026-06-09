@@ -1,0 +1,6 @@
+requests
+edge-tts
+moviepy
+Pillow
+python-dotenv
+feedparser
